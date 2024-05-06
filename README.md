@@ -3,7 +3,7 @@
 Proje Adı: Spor Salonu Otomasyonu
 
 Proje Özeti:
-Bu proje, bir spor salonunun günlük işlemlerini yönetmek için bir otomasyon uygulamasıdır. Uygulama, üye kaydı, üyelik yönetimi, ödeme takibi ve program yönetimi gibi işlevleri sağlar.
+Bu proje, bir spor salonunun günlük işlemlerini yönetmek için bir otomasyon uygulamasıdır. Uygulama, üye kaydı, üyelik yönetimi, ödeme takibi gibi işlevleri sağlar.
 
 Geliştirme Ortamı:
 
